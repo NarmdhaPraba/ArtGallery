@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "6093b22f795c0000460056d1"
+  },
+  "Email": "Admin@gmail.com",
+  "UserName": "Admin",
+  "Password": "81dc9bdb52d04dc20036dbd8313ed055",
+  "Type": "Superadmin"
+},{
+  "_id": {
+    "$oid": "60964982ae7500001500162d"
+  },
+  "Email": "Manager@gmail.com",
+  "UserName": "Manger_FC",
+  "Password": "674f3c2c1a8a6f90461e8a66fb5550ba",
+  "Type": "Admin"
+}]
